@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <!-- SEO (filled by JS) -->
+        <title></title>
+        <meta name="description" content="" />
+        <!-- Favicon -->
+        <link id="favicon" rel="icon" type="image/png" href="assets/branding/favicon/lab-favicon.png" />
+        <!-- Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap"
+            rel="stylesheet"
+        />
+        <!-- CSS -->
+        <link rel="stylesheet" href="css/styles.css" />
+    </head>
+
+    <body>
+        <!-- Header -->
+        <header class="site-header">
+            <div class="nav-wrapper">
+                <a class="brand" href="#hero" aria-label="Go to top">
+                    <span id="brand-name" class="brand-name"></span>
+                    <!--img id="brand-logo" class="brand-logo" alt="" /-->
+                </a>
+
+                <nav aria-label="Site navigation">
+                    <ul id="nav-links" class="nav-links"></ul>
+                </nav>
+            </div>
+        </header>
+
+        <!-- Hero -->
+        <section id="hero" class="hero" aria-label="Welcome section">
+            <div class="hero-bg" aria-hidden="true"></div>
+            <div class="hero-content">
+                <div class="hero-visuals">
+                    <img id="hero-animation" class="hero-animation" alt="" />
+                </div>
+                <div class="hero-texts">
+                    <p id="hero-tagline-1" class="hero-tagline-1"></p>
+                    <p id="hero-tagline-2" class="hero-tagline-2"></p>
+                    <img id="hero-cc-logo" class="hero-cc-logo" alt="" />
+                </div>
+            </div>
+        </section>
+
+        <!-- Page -->
+        <main class="page">
+            <div id="sections-root"></div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="site-footer">
+            <div class="footer-left">
+                <p>
+                    &copy; <span id="year"></span>
+                    <span id="footer-owner"></span>
+                </p>
+                <p id="footer-license"></p>
+            </div>
+
+            <div class="footer-center" id="footer-social"></div>
+
+            <div class="footer-right">
+                <p id="footer-disclaimer"></p>
+                <p id="footer-location"></p>
+            </div>
+        </footer>
+
+        <!-- JS -->
+        <script src="js/render.js" defer></script>
+        <script src="js/ui.js" defer></script>
+    </body>
+</html>
