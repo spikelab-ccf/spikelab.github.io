@@ -828,25 +828,98 @@ img {
     }
 }
 
-/* Nav: stack brand + links on two rows; let links scroll if needed */
+/* Hamburger button — hidden on desktop */
+.nav-toggle {
+    display: none;
+}
+
+/* Nav: hamburger menu on small screens */
 @media (max-width: 600px) {
-    .nav-wrapper {
-        flex-wrap: wrap;
-        gap: 6px;
-        padding-top: 8px;
-        padding-bottom: 8px;
+    .nav-toggle {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 26px;
+        height: 18px;
+        background: none;
+        border: none;
+        cursor: pointer;
+        padding: 0;
+        flex-shrink: 0;
     }
 
-    .nav-links {
+    .nav-toggle-bar {
+        display: block;
         width: 100%;
-        overflow-x: auto;
-        -webkit-overflow-scrolling: touch;
-        gap: 10px;
-        padding-bottom: 3px;
+        height: 2px;
+        background: #fff;
+        border-radius: 2px;
+        transition: transform 250ms ease, opacity 250ms ease;
+    }
+
+    /* Animate to X when open */
+    .nav-toggle[aria-expanded="true"] .nav-toggle-bar:nth-child(1) {
+        transform: translateY(8px) rotate(45deg);
+    }
+    .nav-toggle[aria-expanded="true"] .nav-toggle-bar:nth-child(2) {
+        opacity: 0;
+    }
+    .nav-toggle[aria-expanded="true"] .nav-toggle-bar:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+    }
+
+    /* Nav links hidden by default; shown as dropdown when open */
+    .nav-links {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: rgba(0, 0, 0, 0.95);
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0;
+        padding: 8px 0;
+    }
+
+    .nav-links.is-open {
+        display: flex;
+    }
+
+    .nav-links > li {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .nav-links > li:last-child {
+        border-bottom: none;
     }
 
     .nav-links > li > a {
-        white-space: nowrap;
+        display: block;
+        padding: 12px 20px;
+        font-size: 16px;
+    }
+
+    .nav-social-item {
+        margin-left: 0 !important;
+    }
+
+    .nav-social-link {
+        width: auto;
+        height: auto;
+        border-radius: 0;
+        padding: 10px 20px;
+        justify-content: flex-start;
+        gap: 10px;
+    }
+
+    .nav-social-link::after {
+        display: none;
+    }
+
+    .nav-social-icon {
+        width: 20px;
+        height: 20px;
     }
 }
 

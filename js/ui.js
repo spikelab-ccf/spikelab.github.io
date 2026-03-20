@@ -14,6 +14,27 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!header) return;
 
     // -----------------------------
+    // Hamburger menu toggle (mobile)
+    // -----------------------------
+    const navToggle = document.getElementById("nav-toggle");
+    const navLinks = document.getElementById("nav-links");
+
+    function closeMenu() {
+        navLinks?.classList.remove("is-open");
+        navToggle?.setAttribute("aria-expanded", "false");
+    }
+
+    navToggle?.addEventListener("click", () => {
+        const isOpen = navLinks.classList.toggle("is-open");
+        navToggle.setAttribute("aria-expanded", String(isOpen));
+    });
+
+    // Close when any nav link is tapped
+    navLinks?.addEventListener("click", (e) => {
+        if (e.target.closest("a")) closeMenu();
+    });
+
+    // -----------------------------
     // Smooth scrolling for anchor links
     // -----------------------------
     // Intercepts in-page navigation clicks and scrolls smoothly
@@ -58,6 +79,7 @@ document.addEventListener("DOMContentLoaded", () => {
             header.classList.add("is-hidden");
             header.classList.remove("is-peek");
             hidden = true;
+            closeMenu();
         }
 
         // Reveal header when scrolling upward
