@@ -30,6 +30,12 @@
           "label": "SPIKE Lab GitHub",
           "url": "https://github.com/spikelab-ccf",
           "icon": "assets/icons/github.svg"
+        },
+        {
+          "id": "x",
+          "label": "SPIKE Lab X",
+          "url": "https://x.com/spikelab_ccf",
+          "icon": "assets/icons/x.svg"
         }
       ]
     },
@@ -43,7 +49,7 @@
   },
   "about": {
     "title": "About",
-    "body": "**SPIKE Lab** (*Signal Processing for Intelligent Knowledge in Epilepsy*) is a translational research laboratory dedicated to improving the lives of patients with neurological disorders, with a primary focus on **epilepsy**.\n\nWe develop clinically grounded **signal processing** and **computational methods** to extract meaningful insights from non-invasive recordings (scalp EEG, MEG) and invasive recordings (intracranial EEG/SEEG). Our focus is on **interpretability**, **robustness**, and **clinical relevance** — to improve the understanding, diagnosis, and treatment of epilepsy, particularly in patients with challenging and **non-lesional disease**.\n\nOur philosophy is that effective algorithms must be **physiologically informed** and **clinically interpretable**, supporting real-world clinical decision-making. We focus on challenging problems such as **non-lesional** and **drug-resistant epilepsy**, aiming to identify actionable biomarkers and network-level insights to guide diagnosis, localization, and personalized treatment.\n\nAt the intersection of **neuroscience**, **engineering**, and **clinical care**, we translate advanced signal analysis into tools with direct clinical impact."
+    "body": "**SPIKE Lab** (*Signal Processing for Intelligent Knowledge in Epilepsy*) is a translational research laboratory dedicated to improving the lives of patients with neurological disorders, with a primary focus on **epilepsy**.\n\nWe develop clinically grounded **signal processing** and **computational methods** to extract meaningful insights from non-invasive recordings (scalp EEG, MEG) and invasive recordings (intracranial EEG/SEEG). By emphasizing **interpretability**, **robustness**, and **clinical relevance**, we aim to advance the understanding, diagnosis, and treatment of epilepsy, especially in patients with challenging, **non-lesional**, and **drug-resistant disease**.\n\nOur work is rooted in the belief that effective algorithms must be **physiologically informed** and **clinically interpretable** to support real-world decision-making. At the intersection of **neuroscience**, **engineering**, and **clinical care**, we translate advanced signal analysis into actionable biomarkers, network-level insights, and tools for diagnosis, localization, and personalized treatment."
   },
   "research": {
     "title": "Research",
@@ -130,7 +136,7 @@
           {
             "name": "Hanu Skanda Banappa",
             "role": "Ph.D. Student",
-            "email": "banapph@ccf.org",
+            "email": "h.banappa@vikes.csuohio.edu",
             "affiliation": "Cleveland State University",
             "photo": "assets/sections/people/Hanu Banappa.jpg",
             "photoChill": "assets/sections/people/Hanu Banappa chill.jpg",
@@ -151,7 +157,7 @@
           {
             "name": "HyangMok Baek",
             "role": "Undergraduate Student",
-            "email": "baekh5@ccf.org",
+            "email": "hyangmok.baek@case.edu",
             "affiliation": "Case Western Reserve University",
             "photo": "assets/sections/people/HyangMok Baek.jpeg",
             "photoChill": "assets/sections/people/HyangMok Baek chill.jpg",
