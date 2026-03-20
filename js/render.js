@@ -647,7 +647,7 @@ function renderContactSection(content) {
         const list = el("ul", { className: "contact-list" });
         const item = el("li", {
             className: "contact-email-row",
-            text: "•\u00A0\u00A0Principal investigator: ",
+            text: "•\u00A0\u00A0Lab Email: ",
         });
         item.appendChild(
             el("a", {
