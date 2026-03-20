@@ -54,13 +54,13 @@
         "date": "March 2026",
         "category": "Paper",
         "headline": "Three-Phase Seizure Segmentation in Stereotactic EEG Using Envelope-Based Multivariate Changepoint Analysis",
-        "description": "Kumar et al. — Accepted in Annals of Biomedical Engineering, 2026"
+        "description": "Kumar et al. — Accepted in *Annals of Biomedical Engineering*, 2026"
       },
       {
         "date": "March 2026",
         "category": "Paper",
         "headline": "Directional Connectivity Patterns in SEEG Recorded Epileptiform Transitions in Mesial Temporal Lobe Epilepsy",
-        "description": "Banappa et al. — Accepted in Journal of Neural Engineering, 2026"
+        "description": "Banappa et al. — Accepted in *Journal of Neural Engineering*, 2026"
       },
       {
         "date": "March 2026",
@@ -123,7 +123,6 @@
           {
             "name": "Himanshu Kumar, Ph.D.",
             "role": "Postdoctoral Fellow",
-            "email": "kumarh4@ccf.org",
             "photo": "assets/sections/people/Himanshu Kumar.jpeg",
             "photoChill": "assets/sections/people/Himanshi Kumar chill.jpeg",
             "description": "I'm a Postdoctoral Fellow at Cleveland Clinic working at the intersection of **neuroscience**, **signal processing**, and **machine learning**. My research aims to decode brain dynamics from neural recordings to develop computational biomarkers for epilepsy. In my free time, I enjoy cooking, playing basketball, and traveling.",
@@ -139,7 +138,6 @@
           {
             "name": "Guhan Seshadri, Ph.D.",
             "role": "Postdoctoral Fellow",
-            "email": "seshadg@ccf.org",
             "photo": "assets/sections/people/Guhan Seshadri.jpg",
             "photoChill": "assets/sections/people/Guhan Seshadri chill.jpg",
             "description": "I'm a Postdoctoral Researcher at the Neurological Institute, Cleveland Clinic. My research focuses on **large-scale brain network organization** in epilepsy using MEG/EEG to identify abnormal functional communities in interictal recordings and understand how epileptogenic networks persist outside seizures. Outside the lab, I enjoy watching movies, exploring new places, and playing table tennis and pickleball.",
@@ -159,7 +157,6 @@
           {
             "name": "Hanu Skanda Banappa",
             "role": "Ph.D. Student",
-            "email": "h.banappa@vikes.csuohio.edu",
             "affiliation": "Cleveland State University",
             "photo": "assets/sections/people/Hanu Banappa.jpg",
             "photoChill": "assets/sections/people/Hanu Banappa chill.jpg",
