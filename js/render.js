@@ -643,17 +643,17 @@ function renderContactSection(content) {
     const body = content.body ?? content.text ?? "";
     appendMarkdown(node, body, "rich-text");
 
-    if (isNonEmptyString(content.piEmail)) {
+    if (isNonEmptyString(content.labEmail)) {
         const list = el("ul", { className: "contact-list" });
         const item = el("li", {
             className: "contact-email-row",
-            text: "•\u00A0\u00A0Lab Email: ",
+            text: "•\u00A0\u00A0Principal investigator: ",
         });
         item.appendChild(
             el("a", {
                 className: "contact-email",
-                text: content.piEmail,
-                attrs: { href: `mailto:${content.piEmail}` },
+                text: content.labEmail,
+                attrs: { href: `mailto:${content.labEmail}` },
             })
         );
         list.appendChild(item);
