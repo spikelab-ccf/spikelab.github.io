@@ -53,8 +53,20 @@
       {
         "date": "March 2026",
         "category": "Paper",
-        "headline": "aaa",
-        "description": "bbb"
+        "headline": "Three-Phase Seizure Segmentation in Stereotactic EEG Using Envelope-Based Multivariate Changepoint Analysis",
+        "description": "Kumar et al. — Annals of Biomedical Engineering, 2026"
+      },
+      {
+        "date": "March 2026",
+        "category": "Paper",
+        "headline": "Directional Connectivity Patterns in SEEG Recorded Epileptiform Transitions in Mesial Temporal Lobe Epilepsy",
+        "description": "Banappa et al. — Journal of Neural Engineering, 2026"
+      },
+      {
+        "date": "March 2026",
+        "category": "Talk",
+        "headline": "Abstract Accepted for Oral Presentation at ASSFN 2026",
+        "description": "SPIKE Lab will present at the American Society for Stereotactic and Functional Neurosurgery Biennial Meeting in Cleveland, OH (May 30–June 2, 2026)."
       }
     ]
   },

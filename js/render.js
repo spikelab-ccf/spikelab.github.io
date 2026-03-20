@@ -712,6 +712,64 @@ function renderPhotosSection(content) {
   return node;
 }
 
+function renderNewsSection(content) {
+  const node = el("section", { attrs: { id: "news" } });
+  node.appendChild(el("h2", { text: content.title ?? "News" }));
+
+  const feed = el("ul", { className: "news-feed" });
+  const items = Array.isArray(content.items) ? content.items : [];
+
+  for (const item of items) {
+    const category = isNonEmptyString(item.category)
+      ? item.category.toLowerCase()
+      : "news";
+
+    const li = el("li", {
+      className: "news-item",
+      attrs: { "data-category": category },
+    });
+
+    const meta = el("div", { className: "news-meta" });
+    meta.appendChild(
+      el("span", {
+        className: "news-badge",
+        text: item.category ?? "News",
+      }),
+    );
+    if (isNonEmptyString(item.date)) {
+      meta.appendChild(el("span", { className: "news-date", text: item.date }));
+    }
+    li.appendChild(meta);
+
+    if (isNonEmptyString(item.url)) {
+      li.appendChild(
+        el("a", {
+          className: "news-headline-link",
+          text: item.headline ?? "",
+          attrs: {
+            href: item.url,
+            target: "_blank",
+            rel: "noopener noreferrer",
+          },
+        }),
+      );
+    } else if (isNonEmptyString(item.headline)) {
+      li.appendChild(
+        el("p", { className: "news-headline", text: item.headline }),
+      );
+    }
+
+    if (isNonEmptyString(item.description)) {
+      appendMarkdown(li, item.description, "news-description");
+    }
+
+    feed.appendChild(li);
+  }
+
+  node.appendChild(feed);
+  return node;
+}
+
 function renderContactSection(content) {
   const node = el("section", { attrs: { id: "contact" } });
   node.appendChild(el("h2", { text: content.title ?? "Contact" }));
