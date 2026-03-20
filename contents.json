@@ -137,8 +137,10 @@
             "photoChill": "assets/sections/people/Hanu Banappa chill.jpg",
             "description": "I'm a Ph.D. student in Electrical Engineering at Cleveland State University. My research focuses on the cross-junction of **neural signal processing**, **control theory**, and **machine learning** to understand clinically relevant neural dynamics. I'm particularly interested in developing feedback-driven neuromodulation strategies and closed-loop brain-computer interfaces. Outside the lab, I enjoy pick-up sports, dance battles, and trail adventures.",
             "links": {
-              "website": "https://HanuSkanda.github.io/",
+              "website": "https://hanuskanda-b.github.io/",
               "linkedin": "https://www.linkedin.com/in/hanu-skanda-banappa/",
+              "orcid": "https://orcid.org/0000-0002-4451-7103",
+              "scholar": "https://scholar.google.com/citations?user=9FVerscAAAAJ&hl=en&inst=8024913450255880209",
               "github": "https://github.com/HanuSkanda-B"
             }
           }
