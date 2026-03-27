@@ -47,29 +47,6 @@
       "location": "Cleveland Clinic Main Campus - Cleveland, OH, USA"
     }
   },
-  "news": {
-    "title": "News",
-    "items": [
-      {
-        "date": "March 2026",
-        "category": "Paper",
-        "headline": "Three-Phase Seizure Segmentation in Stereotactic EEG Using Envelope-Based Multivariate Changepoint Analysis",
-        "description": "Kumar et al. — Accepted in *Annals of Biomedical Engineering*, 2026"
-      },
-      {
-        "date": "March 2026",
-        "category": "Paper",
-        "headline": "Directional Connectivity Patterns in SEEG Recorded Epileptiform Transitions in Mesial Temporal Lobe Epilepsy",
-        "description": "Banappa et al. — Accepted in *Journal of Neural Engineering*, 2026"
-      },
-      {
-        "date": "March 2026",
-        "category": "Talk",
-        "headline": "Abstract Accepted for Oral Presentation at ASSFN 2026",
-        "description": "Undergraduate student Baek will present at the American Society for Stereotactic and Functional Neurosurgery Biennial Meeting in Cleveland, OH (May 30–June 2, 2026)."
-      }
-    ]
-  },
   "about": {
     "title": "About",
     "body": "**SPIKE Lab** (*Signal Processing for Intelligent Knowledge in Epilepsy*) is a translational research laboratory dedicated to improving the lives of patients with neurological disorders, with a primary focus on **epilepsy**.\n\nWe develop clinically grounded **signal processing** and **computational methods** to extract meaningful insights from non-invasive recordings (scalp EEG, MEG) and invasive recordings (intracranial EEG/SEEG). By emphasizing **interpretability**, **robustness**, and **clinical relevance**, we aim to advance the understanding, diagnosis, and treatment of epilepsy, especially in patients with challenging, **non-lesional**, and **drug-resistant disease**.\n\nOur work is rooted in the belief that effective algorithms must be **physiologically informed** and **clinically interpretable** to support real-world decision-making. At the intersection of **neuroscience**, **engineering**, and **clinical care**, we translate advanced signal analysis into actionable biomarkers, network-level insights, and tools for diagnosis, localization, and personalized treatment."
@@ -94,6 +71,29 @@
         "description": "We translate our algorithms into practical, **clinician-ready tools** and combine EEG, MEG, and MRI data to create a holistic view of brain function and pathology. By bridging non-invasive and invasive recordings, we enhance diagnostic accuracy, surgical planning, and personalized treatment strategies.",
         "image": "assets/sections/research/Translational Tools and Multimodal Integration.png",
         "alt": "Translational Tools and Multimodal Integration"
+      }
+    ]
+  },
+  "news": {
+    "title": "News",
+    "items": [
+      {
+        "date": "March 2026",
+        "category": "Paper",
+        "headline": "Three-Phase Seizure Segmentation in Stereotactic EEG Using Envelope-Based Multivariate Changepoint Analysis",
+        "description": "Kumar et al. — Accepted in *Annals of Biomedical Engineering*, 2026"
+      },
+      {
+        "date": "March 2026",
+        "category": "Paper",
+        "headline": "Directional Connectivity Patterns in SEEG Recorded Epileptiform Transitions in Mesial Temporal Lobe Epilepsy",
+        "description": "Banappa et al. — Accepted in *Journal of Neural Engineering*, 2026"
+      },
+      {
+        "date": "March 2026",
+        "category": "Talk",
+        "headline": "Abstract Accepted for Oral Presentation at ASSFN 2026",
+        "description": "Undergraduate student Baek will present at the American Society for Stereotactic and Functional Neurosurgery Biennial Meeting in Cleveland, OH (May 30–June 2, 2026)."
       }
     ]
   },

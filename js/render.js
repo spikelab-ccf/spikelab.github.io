@@ -352,8 +352,8 @@ function renderNav(data) {
 
   const sections = [
     "about",
-    "news",
     "research",
+    "news",
     "people",
     "publications",
     "photos",
@@ -803,8 +803,8 @@ function renderSections(data) {
 
   const renderers = [
     ["about", renderAboutSection],
-    ["news", renderNewsSection],
     ["research", renderResearchSection],
+    ["news", renderNewsSection],
     ["people", renderPeopleSection],
     ["publications", renderPublicationsSection],
     ["photos", renderPhotosSection],
