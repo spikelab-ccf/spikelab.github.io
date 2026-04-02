@@ -6,7 +6,7 @@
                           },
                  "meta":  {
                               "title":  "SPIKE Lab",
-                              "description":  "SPIKE Lab develops clinically grounded signal processing and machine learning methods to improve epilepsy diagnosis, localization, and treatment â€” bridging neuroscience, engineering, and clinical care."
+                              "description":  "SPIKE Lab develops clinically grounded signal processing and machine learning methods to improve epilepsy diagnosis, localization, and treatment Ã¢â‚¬â€ bridging neuroscience, engineering, and clinical care."
                           },
                  "hero":  {
                               "tagline1":  "Welcome to SPIKE Lab",
@@ -62,7 +62,7 @@
                                    },
                                    {
                                        "name":  "Brain Connectivity and Biomarker Discovery",
-                                       "description":  "Using advanced signal processing and network analysis, we map functional and directional brain connectivity, identify critical nodes within epileptic networks, and discover electrophysiological biomarkers. These insights help understand seizure propagation, improve localization, and guide diagnosis and treatment â€” including in non-lesional epilepsy.",
+                                       "description":  "Using advanced signal processing and network analysis, we map functional and directional brain connectivity, identify critical nodes within epileptic networks, and discover electrophysiological biomarkers. These insights help understand seizure propagation, improve localization, and guide diagnosis and treatment Ã¢â‚¬â€ including in non-lesional epilepsy.",
                                        "image":  "assets/sections/research/Brain Connectivity and Biomarker Discovery.png",
                                        "alt":  "Brain Connectivity and Biomarker Discovery"
                                    },
@@ -81,19 +81,20 @@
                                    "date":  "March 2026",
                                    "category":  "Paper",
                                    "headline":  "Three-Phase Seizure Segmentation in Stereotactic EEG Using Envelope-Based Multivariate Changepoint Analysis",
-                                   "description":  "Kumar et al. â€” Accepted in *Annals of Biomedical Engineering*, 2026"
+                                   "description":  "Kumar et al. - Accepted in *Annals of Biomedical Engineering*, 2026",
+                                   "url":  "https://link.springer.com/article/10.1007/s10439-026-04097-7"
                                },
                                {
                                    "date":  "March 2026",
                                    "category":  "Paper",
                                    "headline":  "Directional Connectivity Patterns in SEEG Recorded Epileptiform Transitions in Mesial Temporal Lobe Epilepsy",
-                                   "description":  "Banappa et al. â€” Accepted in *Journal of Neural Engineering*, 2026"
+                                   "description":  "Banappa et al. - Accepted in *Journal of Neural Engineering*, 2026"
                                },
                                {
                                    "date":  "March 2026",
                                    "category":  "Talk",
                                    "headline":  "Abstract Accepted for Oral Presentation at ASSFN 2026",
-                                   "description":  "Undergraduate student Baek will present at the American Society for Stereotactic and Functional Neurosurgery Biennial Meeting in Cleveland, OH (May 30â€“June 2, 2026)."
+                                   "description":  "Undergraduate student Baek will present at the American Society for Stereotactic and Functional Neurosurgery Biennial Meeting in Cleveland, OH (May 30-June 2, 2026)."
                                }
                            ]
              },
