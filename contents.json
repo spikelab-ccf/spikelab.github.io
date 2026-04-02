@@ -6,7 +6,7 @@
                           },
                  "meta":  {
                               "title":  "SPIKE Lab",
-                              "description":  "SPIKE Lab develops clinically grounded signal processing and machine learning methods to improve epilepsy diagnosis, localization, and treatment Ã¢â‚¬â€ bridging neuroscience, engineering, and clinical care."
+                              "description":  "SPIKE Lab develops clinically grounded signal processing and machine learning methods to improve epilepsy diagnosis, localization, and treatment - bridging neuroscience, engineering, and clinical care."
                           },
                  "hero":  {
                               "tagline1":  "Welcome to SPIKE Lab",
@@ -62,7 +62,7 @@
                                    },
                                    {
                                        "name":  "Brain Connectivity and Biomarker Discovery",
-                                       "description":  "Using advanced signal processing and network analysis, we map functional and directional brain connectivity, identify critical nodes within epileptic networks, and discover electrophysiological biomarkers. These insights help understand seizure propagation, improve localization, and guide diagnosis and treatment Ã¢â‚¬â€ including in non-lesional epilepsy.",
+                                       "description":  "Using advanced signal processing and network analysis, we map functional and directional brain connectivity, identify critical nodes within epileptic networks, and discover electrophysiological biomarkers. These insights help understand seizure propagation, improve localization, and guide diagnosis and treatment - including in non-lesional epilepsy.",
                                        "image":  "assets/sections/research/Brain Connectivity and Biomarker Discovery.png",
                                        "alt":  "Brain Connectivity and Biomarker Discovery"
                                    },
