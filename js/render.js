@@ -228,8 +228,10 @@ function renderHero(siteData) {
     if (isNonEmptyString(hero.ccLogo?.src)) {
       logo.setAttribute("src", resolvePath(hero.ccLogo.src));
       logo.setAttribute("alt", hero.ccLogo.alt ?? "Affiliation logo");
+      logo.hidden = false;
     } else {
       logo.removeAttribute("src");
+      logo.hidden = true;
     }
   }
 }
@@ -781,7 +783,7 @@ function renderContactSection(content) {
     const list = el("ul", { className: "contact-list" });
     const item = el("li", {
       className: "contact-email-row",
-      text: "•\u00A0\u00A0Lab Email: ",
+      text: "â€¢\u00A0\u00A0Lab Email: ",
     });
     item.appendChild(
       el("a", {

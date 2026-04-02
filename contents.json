@@ -1,245 +1,271 @@
 {
-  "site": {
-    "head": {
-      "labName": "SPIKE Lab",
-      "favicon": "assets/branding/favicon/lab-favicon.png"
-    },
-    "meta": {
-      "title": "SPIKE Lab",
-      "description": "SPIKE Lab develops clinically grounded signal processing and machine learning methods to improve epilepsy diagnosis, localization, and treatment — bridging neuroscience, engineering, and clinical care."
-    },
-    "hero": {
-      "tagline1": "Welcome to SPIKE Lab",
-      "tagline2": "Signal Processing for Intelligent Knowledge of Epilepsy",
-      "ccLogo": {
-        "src": "assets/branding/logos/institution-logo.png",
-        "alt": "Partner organization logo"
-      },
-      "animation": {
-        "src": "assets/hero/hero-animation.gif",
-        "alt": "Seizure propagation animation"
-      }
-    },
-    "main": {
-      "background": "assets/backgrounds/main-page-bg.png"
-    },
-    "social": {
-      "links": [
-        {
-          "id": "github",
-          "label": "SPIKE Lab GitHub",
-          "url": "https://github.com/spikelab-ccf",
-          "icon": "assets/icons/github.svg"
-        },
-        {
-          "id": "x",
-          "label": "SPIKE Lab X",
-          "url": "https://x.com/spikelab_ccf",
-          "icon": "assets/icons/x.svg"
-        }
-      ]
-    },
-    "footer": {
-      "owner": "SPIKE Lab. All rights reserved.",
-      "licenseText": "Website source code is licensed under the MIT License.",
-      "sourceCode": "https://github.com/spikelab-ccf/spikelab.github.io",
-      "disclaimer": "Seizure visualizations are AI-generated and do not include real patient data.",
-      "location": "Cleveland Clinic Main Campus - Cleveland, OH, USA"
-    }
-  },
-  "about": {
-    "title": "About",
-    "body": "**SPIKE Lab** (*Signal Processing for Intelligent Knowledge of Epilepsy*) is a translational research laboratory dedicated to improving the lives of patients with neurological disorders, with a primary focus on epilepsy.\n\nWe develop clinically grounded signal processing and computational methods to extract meaningful insights from non-invasive recordings (scalp EEG, MEG) and invasive recordings (intracranial EEG/SEEG). By emphasizing interpretability, robustness, and clinical relevance, we aim to advance the understanding, diagnosis, and treatment of epilepsy, especially in patients with challenging, non-lesional, and drug-resistant disease.\n\nOur work is rooted in the belief that effective algorithms must be physiologically informed and clinically interpretable to support real-world decision-making. At the intersection of neuroscience, engineering, and clinical care, we translate advanced signal analysis into actionable biomarkers, network-level insights, and tools for diagnosis, localization, and personalized treatment."
-  },
-  "research": {
-    "title": "Research",
-    "items": [
-      {
-        "name": "AI and Patient-Specific Models",
-        "description": "We develop machine learning and AI methods, built on robust signal processing pipelines, to support surgical planning, predict seizure risk, and tailor interventions to individual patients. By integrating large-scale EEG, MEG, and stereo-EEG datasets, our approaches provide interpretable, patient-specific guidance for clinicians.",
-        "image": "assets/sections/research/AI and Patient-Specific Models.png",
-        "alt": "AI and Patient-Specific Models"
-      },
-      {
-        "name": "Brain Connectivity and Biomarker Discovery",
-        "description": "Using advanced signal processing and network analysis, we map functional and directional brain connectivity, identify critical nodes within epileptic networks, and discover electrophysiological biomarkers. These insights help understand seizure propagation, improve localization, and guide diagnosis and treatment — including in non-lesional epilepsy.",
-        "image": "assets/sections/research/Brain Connectivity and Biomarker Discovery.png",
-        "alt": "Brain Connectivity and Biomarker Discovery"
-      },
-      {
-        "name": "Translational Tools and Multimodal Integration",
-        "description": "We translate our algorithms into practical, clinician-ready tools and combine EEG, MEG, and MRI data to create a holistic view of brain function and pathology. By bridging non-invasive and invasive recordings, we enhance diagnostic accuracy, surgical planning, and personalized treatment strategies.",
-        "image": "assets/sections/research/Translational Tools and Multimodal Integration.png",
-        "alt": "Translational Tools and Multimodal Integration"
-      }
-    ]
-  },
-  "news": {
-    "title": "News",
-    "items": [
-      {
-        "date": "March 2026",
-        "category": "Paper",
-        "headline": "Three-Phase Seizure Segmentation in Stereotactic EEG Using Envelope-Based Multivariate Changepoint Analysis",
-        "description": "Kumar et al. — Accepted in *Annals of Biomedical Engineering*, 2026"
-      },
-      {
-        "date": "March 2026",
-        "category": "Paper",
-        "headline": "Directional Connectivity Patterns in SEEG Recorded Epileptiform Transitions in Mesial Temporal Lobe Epilepsy",
-        "description": "Banappa et al. — Accepted in *Journal of Neural Engineering*, 2026"
-      },
-      {
-        "date": "March 2026",
-        "category": "Talk",
-        "headline": "Abstract Accepted for Oral Presentation at ASSFN 2026",
-        "description": "Undergraduate student Baek will present at the American Society for Stereotactic and Functional Neurosurgery Biennial Meeting in Cleveland, OH (May 30–June 2, 2026)."
-      }
-    ]
-  },
-  "people": {
-    "title": "Our Team",
-    "groups": [
-      {
-        "groupTitle": "Faculty",
-        "members": [
-          {
-            "name": "Balu Krishnan, Ph.D.",
-            "role": "Principal Investigator",
-            "photo": "assets/sections/people/Balu Krishnan.jpg",
-            "photoChill": "assets/sections/people/Balu Krishnan chill.jpeg",
-            "description": "I'm an Associate Staff member and computational researcher at the Cleveland Clinic Epilepsy Center, where I study brain dynamics and epilepsy using advanced signal processing and machine learning approaches. My research focuses on analyzing electrophysiological data to identify biomarkers of seizure activity, understand brain network connectivity, and improve diagnosis and treatment for patients with neurological disorders. Outside the lab, I enjoy working out, cooking, and spending time playing with my son.",
-            "links": {
-              "linkedin": "https://www.linkedin.com/in/balukrishnan/",
-              "orcid": "https://orcid.org/0000-0002-1897-3359",
-              "scholar": "https://scholar.google.com/citations?user=e9PG7noAAAAJ&hl=en&oi=ao"
-            }
-          }
-        ]
-      },
-      {
-        "groupTitle": "Postdoctoral Researchers",
-        "members": [
-          {
-            "name": "Himanshu Kumar, Ph.D.",
-            "role": "Postdoctoral Fellow",
-            "photo": "assets/sections/people/Himanshu Kumar.jpeg",
-            "photoChill": "assets/sections/people/Himanshi Kumar chill.jpeg",
-            "description": "I'm a Postdoctoral Fellow at Cleveland Clinic working at the intersection of neuroscience, signal processing, and machine learning. My research aims to decode brain dynamics from neural recordings to develop computational biomarkers for epilepsy. In my free time, I enjoy cooking, playing basketball, and traveling.",
-            "links": {
-              "website": "https://himsriv24.github.io/",
-              "linkedin": "https://www.linkedin.com/in/himanshu-kumar-ph-d-ba2298a7/",
-              "orcid": "https://orcid.org/0000-0003-3255-4588",
-              "scholar": "https://scholar.google.com/citations?user=rlqKrlwAAAAJ",
-              "x": "https://x.com/_himanshu_sri",
-              "github": "https://github.com/himsriv24"
-            }
-          },
-          {
-            "name": "Guhan Seshadri, Ph.D.",
-            "role": "Postdoctoral Fellow",
-            "photo": "assets/sections/people/Guhan Seshadri.jpg",
-            "photoChill": "assets/sections/people/Guhan Seshadri chill.jpg",
-            "description": "I'm a Postdoctoral Researcher at the Neurological Institute, Cleveland Clinic. My research focuses on large-scale brain network organization in epilepsy using MEG/EEG to identify abnormal functional communities in interictal recordings and understand how epileptogenic networks persist outside seizures. Outside the lab, I enjoy watching movies, exploring new places, and playing table tennis and pickleball.",
-            "links": {
-              "website": "https://guhanseshadri.github.io/",
-              "linkedin": "https://www.linkedin.com/in/guhan-seshadri-n-p-1355505b/",
-              "orcid": "https://orcid.org/0000-0002-7506-9104",
-              "scholar": "https://scholar.google.com/citations?user=YSBDHyMAAAAJ&hl=en",
-              "github": "https://github.com/guhanseshadri"
-            }
-          }
-        ]
-      },
-      {
-        "groupTitle": "Graduate Students",
-        "members": [
-          {
-            "name": "Hanu Skanda Banappa",
-            "role": "Ph.D. Student",
-            "affiliation": "Cleveland State University",
-            "photo": "assets/sections/people/Hanu Banappa.jpg",
-            "photoChill": "assets/sections/people/Hanu Banappa chill.jpg",
-            "description": "I'm a Ph.D. student in Electrical Engineering at Cleveland State University. My research focuses on the cross-junction of neural signal processing, control theory, and machine learning to understand clinically relevant neural dynamics. I'm particularly interested in developing feedback-driven neuromodulation strategies and closed-loop brain-computer interfaces. Outside the lab, I enjoy pick-up sports, dance battles, and trail adventures.",
-            "links": {
-              "website": "https://hanuskanda-b.github.io/",
-              "linkedin": "https://www.linkedin.com/in/hanu-skanda-banappa/",
-              "orcid": "https://orcid.org/0000-0002-4451-7103",
-              "scholar": "https://scholar.google.com/citations?user=9FVerscAAAAJ&hl=en&inst=8024913450255880209",
-              "github": "https://github.com/HanuSkanda-B"
-            }
-          }
-        ]
-      },
-      {
-        "groupTitle": "Undergraduate Students",
-        "members": [
-          {
-            "name": "HyangMok Baek",
-            "role": "Undergraduate Student",
-            "email": "hyangmok.baek@case.edu",
-            "affiliation": "Case Western Reserve University",
-            "photo": "assets/sections/people/HyangMok Baek.jpeg",
-            "photoChill": "assets/sections/people/HyangMok Baek chill.jpg",
-            "links": {
-              "linkedin": "https://www.linkedin.com/in/57baek/",
-              "orcid": "https://orcid.org/0009-0007-7585-3867",
-              "github": "https://github.com/57baek"
-            }
-          }
-        ]
-      },
-      {
-        "groupTitle": "Alumni",
-        "members": [
-          {
-            "name": "Navya Nair",
-            "role": "Undergraduate Research Intern",
-            "affiliation": "University of Illinois Urbana-Champaign",
-            "links": {
-              "linkedin": "https://www.linkedin.com/in/navya-nair-/"
-            }
-          },
-          {
-            "name": "Akshaj Satyawada",
-            "role": "High School Research Intern",
-            "affiliation": "University of Pennsylvania",
-            "links": {
-              "linkedin": "https://www.linkedin.com/in/akshaj-satyawada/"
-            }
-          },
-          {
-            "name": "Adam Halford",
-            "role": "High School Research Intern",
-            "affiliation": "United States Military Academy at West Point",
-            "links": {
-              "linkedin": "https://www.linkedin.com/in/adam-halford-bbb509262/"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  "publications": {
-    "title": "Publications",
-    "groups": []
-  },
-  "photos": {
-    "title": "Photos",
-    "items": [
-      { "image": "assets/sections/photos/1.jpeg", "alt": "SPIKE Lab photo" },
-      { "image": "assets/sections/photos/2.jpeg", "alt": "SPIKE Lab photo" },
-      { "image": "assets/sections/photos/3.jpeg", "alt": "SPIKE Lab photo" },
-      { "image": "assets/sections/photos/4.jpeg", "alt": "SPIKE Lab photo" },
-      { "image": "assets/sections/photos/5.jpeg", "alt": "SPIKE Lab photo" },
-      { "image": "assets/sections/photos/6.jpeg", "alt": "SPIKE Lab photo" },
-      { "image": "assets/sections/photos/7.jpeg", "alt": "SPIKE Lab photo" },
-      { "image": "assets/sections/photos/8.jpg", "alt": "SPIKE Lab photo" }
-    ]
-  },
-  "contact": {
-    "title": "Contact",
-    "body": "We welcome curious students, collaborators, and clinicians interested in epilepsy research.\n\nEmail the **lab administrator** for collaboration ideas, research opportunities, or speaking invitations.",
-    "labEmail": "spike-lab@outlook.com"
-  }
+    "site":  {
+                 "head":  {
+                              "labName":  "SPIKE Lab",
+                              "favicon":  "assets/branding/favicon/lab-favicon.png"
+                          },
+                 "meta":  {
+                              "title":  "SPIKE Lab",
+                              "description":  "SPIKE Lab develops clinically grounded signal processing and machine learning methods to improve epilepsy diagnosis, localization, and treatment â€” bridging neuroscience, engineering, and clinical care."
+                          },
+                 "hero":  {
+                              "tagline1":  "Welcome to SPIKE Lab",
+                              "tagline2":  "Signal Processing for Intelligent Knowledge of Epilepsy",
+                              "ccLogo":  {
+                                             "src":  "",
+                                             "alt":  ""
+                                         },
+                              "animation":  {
+                                                "src":  "assets/hero/hero-animation.gif",
+                                                "alt":  "Seizure propagation animation"
+                                            }
+                          },
+                 "main":  {
+                              "background":  "assets/backgrounds/main-page-bg.png"
+                          },
+                 "social":  {
+                                "links":  [
+                                              {
+                                                  "id":  "github",
+                                                  "label":  "SPIKE Lab GitHub",
+                                                  "url":  "https://github.com/spikelab-ccf",
+                                                  "icon":  "assets/icons/github.svg"
+                                              },
+                                              {
+                                                  "id":  "x",
+                                                  "label":  "SPIKE Lab X",
+                                                  "url":  "https://x.com/spikelab_ccf",
+                                                  "icon":  "assets/icons/x.svg"
+                                              }
+                                          ]
+                            },
+                 "footer":  {
+                                "owner":  "SPIKE Lab. All rights reserved.",
+                                "licenseText":  "Website source code is licensed under the MIT License.",
+                                "sourceCode":  "https://github.com/spikelab-ccf/spikelab.github.io",
+                                "disclaimer":  "Seizure visualizations are AI-generated and do not include real patient data.",
+                                "location":  "Cleveland Clinic Main Campus - Cleveland, OH, USA"
+                            }
+             },
+    "about":  {
+                  "title":  "About",
+                  "body":  "**SPIKE Lab** (*Signal Processing for Intelligent Knowledge of Epilepsy*) is a translational research laboratory dedicated to improving the lives of patients with neurological disorders, with a primary focus on epilepsy.\n\nWe develop clinically grounded signal processing and computational methods to extract meaningful insights from non-invasive recordings (scalp EEG, MEG) and invasive recordings (intracranial EEG/SEEG). By emphasizing interpretability, robustness, and clinical relevance, we aim to advance the understanding, diagnosis, and treatment of epilepsy, especially in patients with challenging, non-lesional, and drug-resistant disease.\n\nOur work is rooted in the belief that effective algorithms must be physiologically informed and clinically interpretable to support real-world decision-making. At the intersection of neuroscience, engineering, and clinical care, we translate advanced signal analysis into actionable biomarkers, network-level insights, and tools for diagnosis, localization, and personalized treatment."
+              },
+    "research":  {
+                     "title":  "Research",
+                     "items":  [
+                                   {
+                                       "name":  "AI and Patient-Specific Models",
+                                       "description":  "We develop machine learning and AI methods, built on robust signal processing pipelines, to support surgical planning, predict seizure risk, and tailor interventions to individual patients. By integrating large-scale EEG, MEG, and stereo-EEG datasets, our approaches provide interpretable, patient-specific guidance for clinicians.",
+                                       "image":  "assets/sections/research/AI and Patient-Specific Models.png",
+                                       "alt":  "AI and Patient-Specific Models"
+                                   },
+                                   {
+                                       "name":  "Brain Connectivity and Biomarker Discovery",
+                                       "description":  "Using advanced signal processing and network analysis, we map functional and directional brain connectivity, identify critical nodes within epileptic networks, and discover electrophysiological biomarkers. These insights help understand seizure propagation, improve localization, and guide diagnosis and treatment â€” including in non-lesional epilepsy.",
+                                       "image":  "assets/sections/research/Brain Connectivity and Biomarker Discovery.png",
+                                       "alt":  "Brain Connectivity and Biomarker Discovery"
+                                   },
+                                   {
+                                       "name":  "Translational Tools and Multimodal Integration",
+                                       "description":  "We translate our algorithms into practical, clinician-ready tools and combine EEG, MEG, and MRI data to create a holistic view of brain function and pathology. By bridging non-invasive and invasive recordings, we enhance diagnostic accuracy, surgical planning, and personalized treatment strategies.",
+                                       "image":  "assets/sections/research/Translational Tools and Multimodal Integration.png",
+                                       "alt":  "Translational Tools and Multimodal Integration"
+                                   }
+                               ]
+                 },
+    "news":  {
+                 "title":  "News",
+                 "items":  [
+                               {
+                                   "date":  "March 2026",
+                                   "category":  "Paper",
+                                   "headline":  "Three-Phase Seizure Segmentation in Stereotactic EEG Using Envelope-Based Multivariate Changepoint Analysis",
+                                   "description":  "Kumar et al. â€” Accepted in *Annals of Biomedical Engineering*, 2026"
+                               },
+                               {
+                                   "date":  "March 2026",
+                                   "category":  "Paper",
+                                   "headline":  "Directional Connectivity Patterns in SEEG Recorded Epileptiform Transitions in Mesial Temporal Lobe Epilepsy",
+                                   "description":  "Banappa et al. â€” Accepted in *Journal of Neural Engineering*, 2026"
+                               },
+                               {
+                                   "date":  "March 2026",
+                                   "category":  "Talk",
+                                   "headline":  "Abstract Accepted for Oral Presentation at ASSFN 2026",
+                                   "description":  "Undergraduate student Baek will present at the American Society for Stereotactic and Functional Neurosurgery Biennial Meeting in Cleveland, OH (May 30â€“June 2, 2026)."
+                               }
+                           ]
+             },
+    "people":  {
+                   "title":  "Our Team",
+                   "groups":  [
+                                  {
+                                      "groupTitle":  "Faculty",
+                                      "members":  [
+                                                      {
+                                                          "name":  "Balu Krishnan, Ph.D.",
+                                                          "role":  "Principal Investigator",
+                                                          "photo":  "assets/sections/people/Balu Krishnan.jpg",
+                                                          "photoChill":  "assets/sections/people/Balu Krishnan chill.jpeg",
+                                                          "description":  "I\u0027m an Associate Staff member and computational researcher at the Cleveland Clinic Epilepsy Center, where I study brain dynamics and epilepsy using advanced signal processing and machine learning approaches. My research focuses on analyzing electrophysiological data to identify biomarkers of seizure activity, understand brain network connectivity, and improve diagnosis and treatment for patients with neurological disorders. Outside the lab, I enjoy working out, cooking, and spending time playing with my son.",
+                                                          "links":  {
+                                                                        "linkedin":  "https://www.linkedin.com/in/balukrishnan/",
+                                                                        "orcid":  "https://orcid.org/0000-0002-1897-3359",
+                                                                        "scholar":  "https://scholar.google.com/citations?user=e9PG7noAAAAJ\u0026hl=en\u0026oi=ao"
+                                                                    }
+                                                      }
+                                                  ]
+                                  },
+                                  {
+                                      "groupTitle":  "Postdoctoral Researchers",
+                                      "members":  [
+                                                      {
+                                                          "name":  "Himanshu Kumar, Ph.D.",
+                                                          "role":  "Postdoctoral Fellow",
+                                                          "photo":  "assets/sections/people/Himanshu Kumar.jpeg",
+                                                          "photoChill":  "assets/sections/people/Himanshi Kumar chill.jpeg",
+                                                          "description":  "I\u0027m a Postdoctoral Fellow at Cleveland Clinic working at the intersection of neuroscience, signal processing, and machine learning. My research aims to decode brain dynamics from neural recordings to develop computational biomarkers for epilepsy. In my free time, I enjoy cooking, playing basketball, and traveling.",
+                                                          "links":  {
+                                                                        "website":  "https://himsriv24.github.io/",
+                                                                        "linkedin":  "https://www.linkedin.com/in/himanshu-kumar-ph-d-ba2298a7/",
+                                                                        "orcid":  "https://orcid.org/0000-0003-3255-4588",
+                                                                        "scholar":  "https://scholar.google.com/citations?user=rlqKrlwAAAAJ",
+                                                                        "x":  "https://x.com/_himanshu_sri",
+                                                                        "github":  "https://github.com/himsriv24"
+                                                                    }
+                                                      },
+                                                      {
+                                                          "name":  "Guhan Seshadri, Ph.D.",
+                                                          "role":  "Postdoctoral Fellow",
+                                                          "photo":  "assets/sections/people/Guhan Seshadri.jpg",
+                                                          "photoChill":  "assets/sections/people/Guhan Seshadri chill.jpg",
+                                                          "description":  "I\u0027m a Postdoctoral Researcher at the Neurological Institute, Cleveland Clinic. My research focuses on large-scale brain network organization in epilepsy using MEG/EEG to identify abnormal functional communities in interictal recordings and understand how epileptogenic networks persist outside seizures. Outside the lab, I enjoy watching movies, exploring new places, and playing table tennis and pickleball.",
+                                                          "links":  {
+                                                                        "website":  "https://guhanseshadri.github.io/",
+                                                                        "linkedin":  "https://www.linkedin.com/in/guhan-seshadri-n-p-1355505b/",
+                                                                        "orcid":  "https://orcid.org/0000-0002-7506-9104",
+                                                                        "scholar":  "https://scholar.google.com/citations?user=YSBDHyMAAAAJ\u0026hl=en",
+                                                                        "github":  "https://github.com/guhanseshadri"
+                                                                    }
+                                                      }
+                                                  ]
+                                  },
+                                  {
+                                      "groupTitle":  "Graduate Students",
+                                      "members":  [
+                                                      {
+                                                          "name":  "Hanu Skanda Banappa",
+                                                          "role":  "Ph.D. Student",
+                                                          "affiliation":  "Cleveland State University",
+                                                          "photo":  "assets/sections/people/Hanu Banappa.jpg",
+                                                          "photoChill":  "assets/sections/people/Hanu Banappa chill.jpg",
+                                                          "description":  "I\u0027m a Ph.D. student in Electrical Engineering at Cleveland State University. My research focuses on the cross-junction of neural signal processing, control theory, and machine learning to understand clinically relevant neural dynamics. I\u0027m particularly interested in developing feedback-driven neuromodulation strategies and closed-loop brain-computer interfaces. Outside the lab, I enjoy pick-up sports, dance battles, and trail adventures.",
+                                                          "links":  {
+                                                                        "website":  "https://hanuskanda-b.github.io/",
+                                                                        "linkedin":  "https://www.linkedin.com/in/hanu-skanda-banappa/",
+                                                                        "orcid":  "https://orcid.org/0000-0002-4451-7103",
+                                                                        "scholar":  "https://scholar.google.com/citations?user=9FVerscAAAAJ\u0026hl=en\u0026inst=8024913450255880209",
+                                                                        "github":  "https://github.com/HanuSkanda-B"
+                                                                    }
+                                                      }
+                                                  ]
+                                  },
+                                  {
+                                      "groupTitle":  "Undergraduate Students",
+                                      "members":  [
+                                                      {
+                                                          "name":  "HyangMok Baek",
+                                                          "role":  "Undergraduate Student",
+                                                          "email":  "hyangmok.baek@case.edu",
+                                                          "affiliation":  "Case Western Reserve University",
+                                                          "photo":  "assets/sections/people/HyangMok Baek.jpeg",
+                                                          "photoChill":  "assets/sections/people/HyangMok Baek chill.jpg",
+                                                          "links":  {
+                                                                        "linkedin":  "https://www.linkedin.com/in/57baek/",
+                                                                        "orcid":  "https://orcid.org/0009-0007-7585-3867",
+                                                                        "github":  "https://github.com/57baek"
+                                                                    }
+                                                      }
+                                                  ]
+                                  },
+                                  {
+                                      "groupTitle":  "Alumni",
+                                      "members":  [
+                                                      {
+                                                          "name":  "Navya Nair",
+                                                          "role":  "Undergraduate Research Intern",
+                                                          "affiliation":  "University of Illinois Urbana-Champaign",
+                                                          "links":  {
+                                                                        "linkedin":  "https://www.linkedin.com/in/navya-nair-/"
+                                                                    }
+                                                      },
+                                                      {
+                                                          "name":  "Akshaj Satyawada",
+                                                          "role":  "High School Research Intern",
+                                                          "affiliation":  "University of Pennsylvania",
+                                                          "links":  {
+                                                                        "linkedin":  "https://www.linkedin.com/in/akshaj-satyawada/"
+                                                                    }
+                                                      },
+                                                      {
+                                                          "name":  "Adam Halford",
+                                                          "role":  "High School Research Intern",
+                                                          "affiliation":  "United States Military Academy at West Point",
+                                                          "links":  {
+                                                                        "linkedin":  "https://www.linkedin.com/in/adam-halford-bbb509262/"
+                                                                    }
+                                                      }
+                                                  ]
+                                  }
+                              ]
+               },
+    "publications":  {
+                         "title":  "Publications",
+                         "groups":  [
+
+                                    ]
+                     },
+    "photos":  {
+                   "title":  "Photos",
+                   "items":  [
+                                 {
+                                     "image":  "assets/sections/photos/1.jpeg",
+                                     "alt":  "SPIKE Lab photo"
+                                 },
+                                 {
+                                     "image":  "assets/sections/photos/2.jpeg",
+                                     "alt":  "SPIKE Lab photo"
+                                 },
+                                 {
+                                     "image":  "assets/sections/photos/3.jpeg",
+                                     "alt":  "SPIKE Lab photo"
+                                 },
+                                 {
+                                     "image":  "assets/sections/photos/4.jpeg",
+                                     "alt":  "SPIKE Lab photo"
+                                 },
+                                 {
+                                     "image":  "assets/sections/photos/5.jpeg",
+                                     "alt":  "SPIKE Lab photo"
+                                 },
+                                 {
+                                     "image":  "assets/sections/photos/6.jpeg",
+                                     "alt":  "SPIKE Lab photo"
+                                 },
+                                 {
+                                     "image":  "assets/sections/photos/7.jpeg",
+                                     "alt":  "SPIKE Lab photo"
+                                 },
+                                 {
+                                     "image":  "assets/sections/photos/8.jpg",
+                                     "alt":  "SPIKE Lab photo"
+                                 }
+                             ]
+               },
+    "contact":  {
+                    "title":  "Contact",
+                    "body":  "We welcome curious students, collaborators, and clinicians interested in epilepsy research.\n\nEmail the **lab administrator** for collaboration ideas, research opportunities, or speaking invitations.",
+                    "labEmail":  "spike-lab@outlook.com"
+                }
 }
