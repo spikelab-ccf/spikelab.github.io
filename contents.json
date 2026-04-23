@@ -230,7 +230,59 @@
     "publications":  {
                          "title":  "Publications",
                          "groups":  [
-
+                                       {
+                                           "year": 2026,
+                                           "items": [
+                                               {
+                                                   "text": "Kumar H, Banappa HS, et al. **Three-Phase Seizure Segmentation in Stereotactic EEG Using Envelope-Based Multivariate Changepoint Analysis.** *Annals of Biomedical Engineering*, 2026.",
+                                                   "url": "https://link.springer.com/article/10.1007/s10439-026-04097-7"
+                                               },
+                                               {
+                                                   "text": "Banappa HS, et al. **Directional Connectivity Patterns in SEEG Recorded Epileptiform Transitions in Mesial Temporal Lobe Epilepsy.** *Journal of Neural Engineering*, 2026.",
+                                                   "url": "https://iopscience.iop.org/article/10.1088/1741-2552/ae555c/meta"
+                                               }
+                                           ]
+                                       },
+                                       {
+                                           "year": 2019,
+                                           "items": [
+                                               {
+                                                   "text": "Liao C, Wang K, **Krishnan B**, et al. **Development of high-resolution 3D MR fingerprinting for detection and characterization of epileptic lesions.** *Journal of Magnetic Resonance Imaging*, 49(1):249-262, 2019.",
+                                                   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.26194"
+                                               },
+                                               {
+                                                   "text": "Covert IC, **Krishnan B**, et al. **Temporal graph convolutional networks for automatic seizure detection.** *Machine Learning for Healthcare Conference*, 2019.",
+                                                   "url": "https://proceedings.mlr.press/v106/covert19a.html"
+                                               }
+                                           ]
+                                       },
+                                       {
+                                           "year": 2016,
+                                           "items": [
+                                               {
+                                                   "text": "**Krishnan B**, et al. **Correlating magnetoencephalography to stereo-electroencephalography in patients undergoing epilepsy surgery.** *Brain*, 139(2):e11, 2016.",
+                                                   "url": "https://academic.oup.com/brain/article/139/2/e11/2464303"
+                                               }
+                                           ]
+                                       },
+                                       {
+                                           "year": 2015,
+                                           "items": [
+                                               {
+                                                   "text": "**Krishnan B**, et al. **Epileptic focus localization based on resting state interictal MEG recordings is feasible irrespective of the presence or absence of spikes.** *Clinical Neurophysiology*, 126(4):651-656, 2015.",
+                                                   "url": "https://pubmed.ncbi.nlm.nih.gov/25151596/"
+                                               }
+                                           ]
+                                       },
+                                       {
+                                           "year": 2013,
+                                           "items": [
+                                               {
+                                                   "text": "**Krishnan B**, et al. **Localization of the ictal onset zone with MEG using minimum norm estimate of a narrow band at seizure onset.** *Clinical Neurophysiology*, 124(8):1501-1508, 2013.",
+                                                   "url": "https://pubmed.ncbi.nlm.nih.gov/23507004/"
+                                               }
+                                           ]
+                                       }
                                     ]
                      },
     "photos":  {
