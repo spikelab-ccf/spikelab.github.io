@@ -77,9 +77,14 @@
     "news":  {
                  "title":  "News",
                  "items":  [
-                               {
-                                   "date":  "March 2026",
-                                   "category":  "Paper",
+                     {
+                         "date":  "April 2026",
+                         "category":  "Paper",
+                         "headline":  "Paper Accepted in IEEE EMBC 2026",
+                         "description":  "Our paper titled **\"Transformer-Based End-to-End Localization of Seizure Onset Zones in Temporal Lobe Epilepsy from Stereo-Electroencephalography\"** has been accepted for presentation at the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026) in Toronto, Canada (July 26-30, 2026). It will be presented by PhD scholar Hanu Skanda Banappa."
+                     },
+                     {
+                         "date":  "March 2026",                                   "category":  "Paper",
                                    "headline":  "Three-Phase Seizure Segmentation in Stereotactic EEG Using Envelope-Based Multivariate Changepoint Analysis",
                                    "description":  "Kumar et al. - Accepted in *Annals of Biomedical Engineering*, 2026",
                                    "url":  "https://link.springer.com/article/10.1007/s10439-026-04097-7"
