@@ -234,12 +234,16 @@
                                            "year": 2026,
                                            "items": [
                                                {
-                                                   "text": "Himanshu Kumar, N. P. Guhan Seshadri, David Martinez, Imad Najm, Andreas Alexopoulos, Juan C. Bulacio, Demitre Serletis & Balu Krishnan. Three-Phase Seizure Segmentation in Stereotactic EEG Using Envelope-Based Multivariate Changepoint Analysis. *Annals of Biomedical Engineering*, 2026.",
-                                                   "url": "https://link.springer.com/article/10.1007/s10439-026-04097-7"
+                                                   "text": "HS Banappa, T Moura, D Serletis, AV Alexopoulos, JC Bulacio, ... Directional connectivity patterns in SEEG recorded epileptiform transitions in mesial temporal lobe epilepsy. *Journal of Neural Engineering*, 2026."
                                                },
                                                {
-                                                   "text": "Banappa HS, Alexopoulos AV, Bingaman W, Najm I, Bulacio JC, Serletis D, Krishnan B. Directional Connectivity Patterns in SEEG Recorded Epileptiform Transitions in Mesial Temporal Lobe Epilepsy. *Journal of Neural Engineering*, 2026.",
-                                                   "url": "https://iopscience.iop.org/article/10.1088/1741-2552/ae555c/meta"
+                                                   "text": "Himanshu Kumar, N. P. Guhan Seshadri, David Martinez, Imad Najm, Andreas Alexopoulos, Juan C. Bulacio, Demitre Serletis & Balu Krishnan. Three-Phase Seizure Segmentation in Stereotactic EEG Using Envelope-Based Multivariate Changepoint Analysis. *Annals of Biomedical Engineering, 1-18*, 2026."
+                                               },
+                                               {
+                                                   "text": "M Rabiul Islam, JC Bulacio, W Bingaman, I Najm, B Krishnan, D Serletis. Dynamic Stereoelectroencephalography-Based Phase–Amplitude Coupling in Cingulate Epilepsy. *International Journal of Neural Systems 36 (03), 2550081*, 2026."
+                                               },
+                                               {
+                                                   "text": "J Khoury, I Blümcke, RM Busch, B Krishnan, J Bulacio, W Bingaman, ... Deep characterization of refractory epilepsy due to mild malformation of cortical development with oligodendroglial hyperplasia (MOGHE) and insights into the role of invasive ... *Epilepsia*, 2026."
                                                }
                                            ]
                                        },
@@ -247,8 +251,22 @@
                                            "year": 2025,
                                            "items": [
                                                {
-                                                   "text": "Gula J, Slegers RJ, Van Hoof RHM, Krishnan B, Massimo M, et al. The impact of radiofrequency thermocoagulation on brain connectivity in drug-resistant epilepsy: Insights from stereo-electroencephalography and cortico-cortical evoked potentials. *Epilepsia*, 2025.",
-                                                   "url": "https://onlinelibrary.wiley.com/journal/15281167"
+                                                   "text": "J Chisholm, B Krishnan, J Khoury, A Alexopoulos, W Bingaman, ... Anterior versus posterior insular epilepsy: correlations with semiology based on stereoelectroencephalography. *Annals of Neurology 98 (5), 1111-1124*, 2025."
+                                               },
+                                               {
+                                                   "text": "NS John, JC Bulacio, AV Alexopoulos, W Bingaman, I Najm, B Krishnan, ... Multifractal spatiotemporal dynamics in human epileptiform stereoelectroencephalography recordings. *Journal of Neural Engineering 22 (4), 046046*, 2025."
+                                               },
+                                               {
+                                                   "text": "B Dang, A Alexopoulos, N Barra, KL Beck, M Zhou, M Graziano, ... Feasibility study of seizure detection using commercial smartwatches in patients with epilepsy. *2025 IEEE International Conference on Digital Health (ICDH), 191-195*, 2025."
+                                               },
+                                               {
+                                                   "text": "W Shin, B Krishnan, A Nemani, D Ontaneda, MJ Lowe. Investigation of neuro‐vascular reactivity on fMRI study during visual activation in people with multiple sclerosis using EEG and hypercapnia challenge. *Medical Physics 52 (6), 5081-5090*, 2025."
+                                               },
+                                               {
+                                                   "text": "H Sharples, K Dunham-Carr, CE Serianni, K Szilagyi, M Bebin, ... Evoked and Induced Gamma Power in VEPs from Children with ASD-Related Synaptopathies. *INSAR 2025*, 2025."
+                                               },
+                                               {
+                                                   "text": "J Gula, RJ Slegers, RHM Van Hoof, B Krishnan, M Mischi, ... The impact of radiofrequency thermocoagulation on brain connectivity in drug‐resistant epilepsy: Insights from stereo‐electroencephalography and cortico‐cortical evoked potentials. *Epilepsia 66 (4), 1260-1273*, 2025."
                                                }
                                            ]
                                        },
@@ -256,12 +274,19 @@
                                            "year": 2024,
                                            "items": [
                                                {
-                                                   "text": "Krishnan B, Tousseyn S, Taylor K, Wu G, Serletis D, Najm I, Bulacio J, Alexopoulos AV. Measurable transitions during seizures in intracranial EEG: A stereoelectroencephalography and SPECT study. *Clinical Neurophysiology*, 161:84-93, 2024.",
-                                                   "url": "https://pubmed.ncbi.nlm.nih.gov/38430752/"
+                                                   "text": "TY Su, JY Choi, S Hu, X Wang, I Blümcke, K Chiprean, B Krishnan, Z Ding, ... Multiparametric characterization of focal cortical dysplasia using 3D MR fingerprinting. *Annals of neurology 96 (5), 944-957*, 2024."
                                                },
                                                {
-                                                   "text": "Kobayashi K, Taylor KN, Shahabi H, Krishnan B, Joshi A, et al. Effective connectivity relates seizure outcome to electrode placement in responsive neurostimulation. *Brain Communications*, 6(2):fcae041, 2024.",
-                                                   "url": "https://academic.oup.com/braincomms/article/6/2/fcae041/7604359"
+                                                   "text": "A Nieto Ramos, B Krishnan, AV Alexopoulos, W Bingaman, I Najm, ... Epileptic network identification: insights from dynamic mode decomposition of sEEG data. *Journal of neural engineering 21 (4), 046061*, 2024."
+                                               },
+                                               {
+                                                   "text": "K Szilagyi, CB MacKay, E Arcasoy, A Quinlan, M Bebin, J Bernstein, ... Increased Variability in Response to Auditory Tones in Children with ASD-Related Synaptopathies. *INSAR 2024*, 2024."
+                                               },
+                                               {
+                                                   "text": "B Krishnan, S Tousseyn, K Taylor, G Wu, D Serletis, I Najm, J Bulacio, ... Measurable transitions during seizures in intracranial EEG: a stereoelectroencephalography and SPECT study. *Clinical Neurophysiology 161, 80-92*, 2024."
+                                               },
+                                               {
+                                                   "text": "K Kobayashi, KN Taylor, H Shahabi, B Krishnan, A Joshi, MJ Mackow, ... Effective connectivity relates seizure outcome to electrode placement in responsive neurostimulation. *Brain communications 6 (1), fcae035*, 2024."
                                                }
                                            ]
                                        },
@@ -269,12 +294,13 @@
                                            "year": 2023,
                                            "items": [
                                                {
-                                                   "text": "Krishnan B, Tousseyn S, Wang ZI, Murakami H, Wu G, et al. Novel noninvasive identification of patient-specific epileptic networks in focal epilepsies: Linking SPECT perfusion during seizures with resting-state MEG dynamics. *Human Brain Mapping*, 44(8):3198-3211, 2023.",
-                                                   "url": "https://pubmed.ncbi.nlm.nih.gov/36946024/"
+                                                   "text": "J Bae, JL Clay, BR Thapa, D Powell, H Turpin, ST Partovi, ... Equipment setup and artifact removal for simultaneous electroencephalogram and functional magnetic resonance imaging for clinical review in epilepsy. *Journal of Visualized Experiments (JoVE), e64919*, 2023."
                                                },
                                                {
-                                                   "text": "Tang Y, Blümcke I, Su TY, Choi JY, Krishnan B, et al. The Black Line Sign in Focal Cortical Dysplasia IIB: a 7T MRI and Electro-clinico-pathological Study. *Neurology*, 101(11):e1112-e1124, 2023.",
-                                                   "url": "https://pubmed.ncbi.nlm.nih.gov/37407255/"
+                                                   "text": "K Szilagyi, CB MacKay, E Arcasoy, A Quinlan, M Bebin, J Bernstein, ... Background Slope of Resting State EEG in mTOR Pathway Disorders. *INSAR 2023*, 2023."
+                                               },
+                                               {
+                                                   "text": "B Krishnan, S Tousseyn, ZI Wang, H Murakami, G Wu, R Burgess, ... Novel noninvasive identification of patient‐specific epileptic networks in focal epilepsies: linking single‐photon emission computed tomography perfusion during seizures with ... *Human Brain Mapping 44 (4), 1695-1710*, 2023."
                                                }
                                            ]
                                        },
@@ -282,8 +308,10 @@
                                            "year": 2022,
                                            "items": [
                                                {
-                                                   "text": "Choi JY, Krishnan B, Hu S, Martinez D, Tang Y, et al. Using magnetic resonance fingerprinting to characterize periventricular nodular heterotopias in pharmacoresistant epilepsy. *Epilepsia*, 63(10):2580-2591, 2022.",
-                                                   "url": "https://pubmed.ncbi.nlm.nih.gov/35811440/"
+                                                   "text": "Y Tang, I Blümcke, TY Su, JY Choi, B Krishnan, H Murakami, ... Black line sign in focal cortical dysplasia IIB: a 7T MRI and electroclinicopathologic study. *Neurology 99 (6), e616-e626*, 2022."
+                                               },
+                                               {
+                                                   "text": "JY Choi, B Krishnan, S Hu, D Martinez, Y Tang, X Wang, K Sakaie, ... Using magnetic resonance fingerprinting to characterize periventricular nodular heterotopias in pharmacoresistant epilepsy. *Epilepsia 63 (5), 1225-1237*, 2022."
                                                }
                                            ]
                                        },
@@ -291,8 +319,10 @@
                                            "year": 2021,
                                            "items": [
                                                {
-                                                   "text": "Krishnan B, Tousseyn S, Nayak CS, Aung T, Kheder A, et al. Neurovascular networks in epilepsy: Correlating ictal blood perfusion with intracranial electrophysiology. *NeuroImage*, 244:118555, 2021.",
-                                                   "url": "https://pubmed.ncbi.nlm.nih.gov/34537367/"
+                                                   "text": "I Zawar, B Krishnan, M Mackow, A Alexopoulos, D Nair, V Punia. The efficacy, safety, and outcomes of brain‐responsive neurostimulation (RNS® system) therapy in older adults. *Epilepsia open 6 (4), 781-787*, 2021."
+                                               },
+                                               {
+                                                   "text": "B Krishnan, S Tousseyn, CS Nayak, T Aung, A Kheder, ZI Wang, G Wu, ... Neurovascular networks in epilepsy: correlating ictal blood perfusion with intracranial electrophysiology. *Neuroimage 231, 117838*, 2021."
                                                }
                                            ]
                                        },
@@ -300,12 +330,16 @@
                                            "year": 2020,
                                            "items": [
                                                {
-                                                   "text": "Nair DR, Laxer KD, Weber PB, Murro AM, Park YD, et al. Nine-year prospective efficacy and safety of brain-responsive neurostimulation for focal epilepsy. *Neurology*, 95(9):e1244-e1256, 2020.",
-                                                   "url": "https://pubmed.ncbi.nlm.nih.gov/32690786/"
+                                                   "text": "I Wang, S Oh, I Blümcke, R Coras, B Krishnan, S Kim, A McBride, ... Value of 7T MRI and post‐processing in patients with nonlesional 3T MRI undergoing epilepsy presurgical evaluation. *Epilepsia 61 (11), 2509-2520*, 2020."
                                                },
                                                {
-                                                   "text": "Wang ZI, Oh S, Blümcke I, Coras R, Krishnan B, et al. Value of 7T MRI and post-processing in patients with nonlesional 3T MRI undergoing epilepsy presurgical evaluation. *Epilepsia*, 61(11):2509-2520, 2020.",
-                                                   "url": "https://pubmed.ncbi.nlm.nih.gov/33043440/"
+                                                   "text": "A Kheder, U Thome, T Aung, B Krishnan, A Alexopoulos, G Wu, I Wang, ... Investigation of networks underlying hyperkinetic seizures utilizing ictal SPECT. *Neurology 95 (6), e637-e642*, 2020."
+                                               },
+                                               {
+                                                   "text": "C Steriade, L Jehi, B Krishnan, M Morita-Sherman, ANV Moosa, S Hantus, ... Perisylvian vulnerability to postencephalitic epilepsy. *Clinical Neurophysiology 131 (8), 1702-1710*, 2020."
+                                               },
+                                               {
+                                                   "text": "A Gupta, G de Bruyn, S Tousseyn, B Krishnan, L Lagae, N Agarwal, ... Epilepsy and neurodevelopmental comorbidities in tuberous sclerosis complex: a natural history study. *Pediatric neurology 106, 10-16*, 2020."
                                                }
                                            ]
                                        },
@@ -313,12 +347,65 @@
                                            "year": 2019,
                                            "items": [
                                                {
-                                                   "text": "Liao C, Wang K, Krishnan B, et al. Development of high-resolution 3D MR fingerprinting for detection and characterization of epileptic lesions. *Journal of Magnetic Resonance Imaging*, 49(1):249-262, 2019.",
-                                                   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.26194"
+                                                   "text": "IC Covert, B Krishnan, I Najm, J Zhan, M Shore, J Hixson, MJ Po. Temporal graph convolutional networks for automatic seizure detection. *Machine learning for healthcare conference, 160-180*, 2019."
                                                },
                                                {
-                                                   "text": "Covert IC, Krishnan B, et al. Temporal graph convolutional networks for automatic seizure detection. *Machine Learning for Healthcare Conference*, 2019.",
-                                                   "url": "https://proceedings.mlr.press/v106/covert19a.html"
+                                                   "text": "D Lee, B Krishnan, H Zhang, HR Park, EJ Ro, YN Jung, H Suh. Activity of hippocampal adult-born neurons regulates alcohol withdrawal seizures. *JCI insight 4 (19), e128770*, 2019."
+                                               },
+                                               {
+                                                   "text": "D Ma, SE Jones, A Deshmane, K Sakaie, EY Pierre, M Larvie, ... Development of high‐resolution 3D MR fingerprinting for detection and characterization of epileptic lesions. *Journal of Magnetic Resonance Imaging 49 (5), 1333-1346*, 2019."
+                                               },
+                                               {
+                                                   "text": "S Wang, Y Tang, T Aung, C Chen, M Katagiri, SE Jones, RA Prayson, ... Multimodal noninvasive evaluation in MRI-negative operculoinsular epilepsy. *Journal of Neurosurgery 132 (5), 1334-1344*, 2019."
+                                               }
+                                           ]
+                                       },
+                                       {
+                                           "year": 2018,
+                                           "items": [
+                                               {
+                                                   "text": "S Wang, B Jin, T Aung, M Katagiri, SE Jones, B Krishnan, ... Application of MRI post-processing in presurgical evaluation of non-lesional cingulate epilepsy. *Frontiers in Neurology 9, 1013*, 2018."
+                                               },
+                                               {
+                                                   "text": "V Punia, J Bena, B Krishnan, C Newey, S Hantus. New onset epilepsy among patients with periodic discharges on continuous electroencephalographic monitoring. *Epilepsia 59 (8), 1612-1620*, 2018."
+                                               },
+                                               {
+                                                   "text": "R El Tahry, ZI Wang, A Thandar, I Podkorytova, B Krishnan, S Tousseyn, ... Magnetoencephalography and ictal SPECT in patients with failed epilepsy surgery. *Clinical Neurophysiology 129 (8), 1651-1657*, 2018."
+                                               },
+                                               {
+                                                   "text": "B Jin, B Krishnan, S Adler, K Wagstyl, W Hu, S Jones, I Najm, ... Automated detection of focal cortical dysplasia type II with surface‐based magnetic resonance imaging postprocessing and machine learning. *Epilepsia 59 (5), 982-992*, 2018."
+                                               },
+                                               {
+                                                   "text": "J Aupy, I Noviawaty, B Krishnan, P Suwankpakdee, J Bulacio, ... Insulo‐opercular cortex generates oroalimentary automatisms in temporal seizures. *Epilepsia 59 (3), 583-594*, 2018."
+                                               },
+                                               {
+                                                   "text": "B Jin, W Hu, L Ye, B Krishnan, T Aung, SE Jones, IM Najm, ... Small lesion size is associated with sleep-related epilepsy in focal cortical dysplasia type II. *Frontiers in Neurology 9, 106*, 2018."
+                                               },
+                                               {
+                                                   "text": "A Sabersky, M Mackow, B Krishnan, D Nair, A Alexopoulos, W Bingaman, ... Closed-Loop Responsive Stimulation for Epilepsy. *Neuromodulation, 1023-1030*, 2018."
+                                               },
+                                               {
+                                                   "text": "AK Adnan, A Alexopoulos, KM Alo, RL Alterman, A Amar, P Andrade, ... List of Contributors of Volume 2. *Neuromodulation, xi-xiii*, 2018."
+                                               },
+                                               {
+                                                   "text": "N Agarwal, B Krishnan, RC Burgess, RA Prayson, AV Alexopoulos, ... Magnetoencephalographic characteristics of cortical dysplasia in children. *Pediatric Neurology 78, 13-19*, 2018."
+                                               }
+                                           ]
+                                       },
+                                       {
+                                           "year": 2017,
+                                           "items": [
+                                               {
+                                                   "text": "LD Iasemidis, I Vlachos, B Krishnan, A Alexopoulos. System and method for identifying a focal area of abnormal network interactions in the brain. *US Patent 9,730,628*, 2017."
+                                               },
+                                               {
+                                                   "text": "S Tousseyn, B Krishnan, ZI Wang, S Wongwiangjunt, CS Nayak, ... Connectivity in ictal single photon emission computed tomography perfusion: a cortico-cortical evoked potential study. *Brain 140 (7), 1872-1884*, 2017."
+                                               },
+                                               {
+                                                   "text": "H Murakami, ZI Wang, A Marashly, B Krishnan, RA Prayson, Y Kakisaka, ... Correlating magnetoencephalography to stereo-electroencephalography in patients undergoing epilepsy surgery (vol 139, pg 2938, 2016). *BRAIN 140*, 2017."
+                                               },
+                                               {
+                                                   "text": "R El Tahry, B Krishnan, ZI Wang, D Nair, A Alexopoulos. Unexpected increase of seizures in a patient treated with responsive neurostimulation: Check the lead!. *Clinical Neurophysiology 128 (10), 1821*, 2017."
                                                }
                                            ]
                                        },
@@ -326,8 +413,31 @@
                                            "year": 2016,
                                            "items": [
                                                {
-                                                   "text": "Krishnan B, et al. Correlating magnetoencephalography to stereo-electroencephalography in patients undergoing epilepsy surgery. *Brain*, 139(2):e11, 2016.",
-                                                   "url": "https://academic.oup.com/brain/article/139/2/e11/2464303"
+                                                   "text": "S Tousseyn, B Krishnan, Z Wang, JC Mosher, G Wu, W Van Paesschen, ... CONNECTIVITY IN ICTAL SPECT PERFUSION: A CORTICO-CORTICAL EVOKED POTENTIAL STUDY. *Epilepsia 57, 25-25*, 2016."
+                                               },
+                                               {
+                                                   "text": "ZI Wang, B Krishnan, DW Shattuck, RM Leahy, ANV Moosa, E Wyllie, ... Automated MRI volumetric analysis in patients with Rasmussen syndrome. *American Journal of Neuroradiology 37 (12), 2348-2355*, 2016."
+                                               },
+                                               {
+                                                   "text": "I Vlachos, B Krishnan, DM Treiman, K Tsakalis, D Kugiumtzis, ... The concept of effective inflow: application to interictal localization of the epileptogenic focus from iEEG. *IEEE Transactions on Biomedical Engineering 64 (9), 2241-2252*, 2016."
+                                               },
+                                               {
+                                                   "text": "H Murakami, ZI Wang, A Marashly, B Krishnan, RA Prayson, Y Kakisaka, ... Correlating magnetoencephalography to stereo-electroencephalography in patients undergoing epilepsy surgery. *Brain 139 (11), 2935-2947*, 2016."
+                                               },
+                                               {
+                                                   "text": "ZI Wang, P Suwanpakdee, SE Jones, Z Jaisani, ANV Moosa, IM Najm, ... Re-review of MRI with post-processing in nonlesional patients in whom epilepsy surgery has failed. *Journal of neurology 263 (9), 1736-1745*, 2016."
+                                               },
+                                               {
+                                                   "text": "R El Tahry, ZI Wang, Y Kakisaka, H Murakami, S Shibata, B Krishnan, ... A single tight MEG cluster may only represent a fragment of type I FCD. *Clinical neurophysiology: official journal of the International Federation ...*, 2016."
+                                               },
+                                               {
+                                                   "text": "MJ Mackow, B Krishnan, WE Bingaman, IM Najm, AV Alexopoulos, ... Increased caffeine intake leads to worsening of electrocorticographic epileptiform discharges as recorded with a responsive neurostimulation device. *Clin Neurophysiol 127 (6), 2341-2*, 2016."
+                                               },
+                                               {
+                                                   "text": "SA Thompson, B Krishnan, J Gonzalez-Martinez, J Bulacio, L Jehi, ... Interictal infraslow activity in stereoelectroencephalography: from focus to network. *Journal of Clinical Neurophysiology 33 (2), 141-148*, 2016."
+                                               },
+                                               {
+                                                   "text": "SA Thompson, B Krishnan, J Gonzalez-Martinez, J Bulacio, L Jehi, ... Ictal infraslow activity in stereoelectroencephalography: beyond the “DC shift”. *Clinical Neurophysiology 127 (1), 117-128*, 2016."
                                                }
                                            ]
                                        },
@@ -335,8 +445,27 @@
                                            "year": 2015,
                                            "items": [
                                                {
-                                                   "text": "Krishnan B, et al. Epileptic focus localization based on resting state interictal MEG recordings is feasible irrespective of the presence or absence of spikes. *Clinical Neurophysiology*, 126(4):651-656, 2015.",
-                                                   "url": "https://pubmed.ncbi.nlm.nih.gov/25151596/"
+                                                   "text": "ZI Wang, SE Jones, Z Jaisani, IM Najm, RA Prayson, RC Burgess, ... Voxel‐based morphometric magnetic resonance imaging (MRI) postprocessing in MRI‐negative epilepsies. *Annals of neurology 77 (6), 1060-1075*, 2015."
+                                               },
+                                               {
+                                                   "text": "B Krishnan, I Vlachos, A Faith, S Mullane, K Williams, L Iasemidis. Spatiotemporal dynamics of interictal spikes. *Mississippi Academy of Science 60 (1)*, 2015."
+                                               },
+                                               {
+                                                   "text": "B Krishnan, I Vlachos, ZI Wang, J Mosher, I Najm, R Burgess, L Iasemidis, ... Epileptic focus localization based on resting state interictal MEG recordings is feasible irrespective of the presence or absence of spikes. *Clinical Neurophysiology 126 (4), 667-674*, 2015."
+                                               },
+                                               {
+                                                   "text": "I Noviawaty, B Krishnan, J Mosher, D Nair. CORTICAL CORTICAL EVOKED POTENTIAL RECORDINGS FROM STEREO EEG IN EVALUATING HUMAN PRECUNEUS CONNECTIVITY. *EPILEPSIA 56, 30-30*, 2015."
+                                               }
+                                           ]
+                                       },
+                                       {
+                                           "year": 2014,
+                                           "items": [
+                                               {
+                                                   "text": "V Venkataraman, I Vlachos, A Faith, B Krishnan, K Tsakalis, D Treiman, ... Brain dynamics based automated epileptic seizure detection. *2014 36th Annual International Conference of the IEEE Engineering in ...*, 2014."
+                                               },
+                                               {
+                                                   "text": "B Krishnan, I Vlachos, A Faith, S Mullane, K Williams, A Alexopoulos, ... A novel spatiotemporal analysis of peri-ictal spiking to probe the relation of spikes and seizures in epilepsy. *Annals of biomedical engineering 42 (8), 1606-1617*, 2014."
                                                }
                                            ]
                                        },
@@ -344,8 +473,52 @@
                                            "year": 2013,
                                            "items": [
                                                {
-                                                   "text": "Krishnan B, et al. Localization of the ictal onset zone with MEG using minimum norm estimate of a narrow band at seizure onset. *Clinical Neurophysiology*, 124(8):1501-1508, 2013.",
-                                                   "url": "https://pubmed.ncbi.nlm.nih.gov/23507004/"
+                                                   "text": "R Alkawadri, B Krishnan, Y Kakisaka, D Nair, JC Mosher, RC Burgess, ... Localization of the ictal onset zone with MEG using minimum norm estimate of a narrow band at seizure onset versus standard single current dipole modeling. *Clinical Neurophysiology 124 (9), 1915-1918*, 2013."
+                                               },
+                                               {
+                                                   "text": "ZI Wang, AV Alexopoulos, D Nair, B Krishnan, JC Mosher, RC Burgess, ... Feasibility of magnetoencephalography recording in an epilepsy patient with implanted responsive cortical stimulation device.. *Clinical neurophysiology: official journal of the International Federation ...*, 2013."
+                                               },
+                                               {
+                                                   "text": "I Vlachos, B Krishnan, J Sirven, K Noe, J Drazkowski, L Iasemidis. Frequency-based Connectivity Analysis of Interictal iEEG to Localize the Epileptogenic Focus. *IEEE (Biomedical Engineering Conference (SBEC), 2013 29th Southern)*, 2013."
+                                               },
+                                               {
+                                                   "text": "B Krishnan, I Vlachos, ZI Wang, J Mosher, L Iasemidis, R Burgess, ... Advanced MEG Source Analysis for Epileptogenic Focus Localization in Patients with Non-Lesional MRI. *Biomedical Engineering Conference (SBEC), 2013 29th Southern*, 2013."
+                                               }
+                                           ]
+                                       },
+                                       {
+                                           "year": 2012,
+                                           "items": [
+                                               {
+                                                   "text": "EC Tobin, J White-James, I Vlachos, B Krishnan, V Venkataraman, ... LONG-TERM EEG DYNAMICS FOLLOWING TBI IN A RAT MODEL OF PTE. *JOURNAL OF NEUROTRAUMA 29 (10), A108-A109*, 2012."
+                                               },
+                                               {
+                                                   "text": "B Krishnan. On the dynamics of epileptic spikes and focus localization in temporal lobe epilepsy. *Arizona State University*, 2012."
+                                               }
+                                           ]
+                                       },
+                                       {
+                                           "year": 2011,
+                                           "items": [
+                                               {
+                                                   "text": "B Krishnan, A Faith, I Vlachos, A Roth, K Williams, K Noe, J Drazkowski, ... Resetting of brain dynamics: epileptic versus psychogenic nonepileptic seizures. *Epilepsy & Behavior 22, S74-S81*, 2011."
+                                               },
+                                               {
+                                                   "text": "B Krishnan, G Nair, A Faith, A Roth, E Kondylis, K Williams, L Tapsell, ... STRENGTH AND TOPOGRAPHY OF SYNCHRONIZATION OF EEG DYNAMICS DURING SLEEP IN PATIENTS WITH EPILEPSY. *Imaging and Signal Processing in Healthcare and Technology*, 2011."
+                                               },
+                                               {
+                                                   "text": "A Faith, B Krishnan, A Roth, E Kondylis, K Williams, J Sirven, L Iasemidis. Lack of resetting of brain dynamics following psychogenic non-epileptic seizures. *IASTED International Symposia on Imaging and Signal Processing in Healthcare ...*, 2011."
+                                               }
+                                           ]
+                                       },
+                                       {
+                                           "year": 2009,
+                                           "items": [
+                                               {
+                                                   "text": "H Al-Nashash, S Sabesan, B Krishnan, J George, K Tsakalis, L Iasemidis, ... Single-Channel EEG Analysis. *Quantitative EEG Analysis Methods and Applications 1, 51-107*, 2009."
+                                               },
+                                               {
+                                                   "text": "S Tong, NV Thakor. Quantitative EEG analysis methods and clinical applications. *Artech House*, 2009."
                                                }
                                            ]
                                        }
