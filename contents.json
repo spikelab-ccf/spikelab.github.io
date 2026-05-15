@@ -78,6 +78,12 @@
                  "title":  "News",
                  "items":  [
                      {
+                         "date":  "May 2026",
+                         "category":  "Paper",
+                         "headline":  "Paper Accepted in Epilepsia",
+                         "description":  "Our manuscript titled **\"Presurgical Magnetoencephalography Derived Network Control Metrics Distinguish Successful Hippocampal Resection versus Sparing in Temporal Lobe Epilepsy\"** has been accepted in *Epilepsia*. The work is authored by Seshadri, Kumar, John, Alexopoulos, Burgess, Murakami, and Krishnan."
+                     },
+                     {
                          "date":  "April 2026",
                          "category":  "Paper",
                          "headline":  "Paper Accepted in IEEE EMBC 2026",
